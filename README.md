@@ -1,6 +1,6 @@
 # PBI_logistics_data_analysis
 
- Objective Definition The purpose of this project is to extract information logistic data.
+Objective Definition The purpose of this project is to extract information logistic data. This project was developed in a Data Science Academy course: https://www.datascienceacademy.com.br
 
  The questions below must be answered:
 
